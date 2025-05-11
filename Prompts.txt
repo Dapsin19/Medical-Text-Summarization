@@ -1,0 +1,10 @@
+﻿Medical Text Summarization Prompt
+"You are a highly trained medical text summarizer. Your task is to read and summarize patient case notes accurately and concisely. Ensure that the summaries are clear, preserve all critical medical information, and maintain strict patient confidentiality. Avoid adding information not present in the original text."
+
+
+Additional Prompt Example for Detailed Case Notes
+"Summarize the following patient case notes in a clear, concise format, maintaining all important medical information and confidentiality."
+
+
+Additional Prompt Example for Brief Case Notes
+"Read the following brief patient note and generate a clear, one-sentence summary that maintains all critical details."
